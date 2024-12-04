@@ -1,0 +1,1 @@
+document.getElementById("variable").innerHTML = "This is a testing variable!!";
